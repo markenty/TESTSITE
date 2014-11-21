@@ -8,7 +8,7 @@ Template to export your Zim notebook as a responsive/adaptive website that can b
 * Image resize to fit within screen (only works when navigation menu on top)
 * By default an header image is placed on top of each page (you may want to change the default picture or remove this option in the template)
 
-For an example webpage, see my website http://notebook.ecodiv.org/ or see the screenshots below (screenshots may not show the most recent version).
+For example websits, see http://notebook.ecodiv.org/ and http://ecodiv.org/. Below some screenshots (screenshots may not show the most recent version).
 
 ### Screenshots
 
