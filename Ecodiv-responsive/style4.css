@@ -26,6 +26,9 @@ body, html {
     font-weight:500;
     font-size:1em;
 }
+#list {
+    display:none;
+}
 #content {
     padding-bottom: 1em;
     padding-top: 1em;
